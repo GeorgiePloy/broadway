@@ -1,8 +1,30 @@
 html {
   font-family: helvetica, sans-serif;
+  text-align: center;
 }
 h1 {
   color: white;
   font-size: 70px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.support-text {
+  font-size: 14px;
+}
+footer {
+  color: white;
+  font-size: 11px;
+  background-color: dimgray;
+}
+#subtitle {
+  font-size: 32px;
+  font-weight: bold;
+}
+#subtitle-two {
+  color: white;
+  font-size: 23px;
   font-weight: bold;
 }
